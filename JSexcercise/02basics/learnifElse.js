@@ -34,3 +34,8 @@ if (whoIsHere === 'user') {
 // 5 - Good
 // 3 - Poor 
 // 0 - fail
+
+let studentMarks = 8 
+let myGrade = (studentMarks > 9)
+
+console.log(myGrade)
