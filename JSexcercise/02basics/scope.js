@@ -24,7 +24,3 @@ if (true) {
         console.log(king);
     }
 }
-// if (true) {
-//     console.log(" I am second part : " + king);
-
-// }
